@@ -1,0 +1,14 @@
+{
+  "name": "jjong-hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MrMirror21 <mylittlesentry@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "react-router-dom": "^5.2.0"
+  }
+}
